@@ -2,6 +2,7 @@
 
 
 ## Cheat sheets 
+- [Official Cheat Sheets](https://github.com/matplotlib/cheatsheets)
 - [E2ML chapter by Brandon Rohrer](https://e2eml.school/blog.html#131) 
 
 ## Books 
@@ -12,9 +13,12 @@
 ## Repositories with examples of complex visualizations 
 - [Lisa-Ho](https://github.com/Lisa-Ho)
 - [diego-gonher](https://github.com/diego-gonher/divulgacion/tree/main/visualizaciones)
-- [symmy596](https://github.com/symmy596) - geoviz
+- [symmy596](https://github.com/symmy596) - geoviz 
+- [Kaggle: A story told through a heatmap](https://www.kaggle.com/code/tkubacka/a-story-told-through-a-heatmap)
 
-# Community tutorials 
+## Tutorials
+
+### Community tutorials
 - [Engineering for data science - Blog](https://engineeringfordatascience.com/tags/matplotlib/)
   - [Plotting subplots in a loop](https://engineeringfordatascience.com/posts/matplotlib_subplots/)
   - [Using plt.suptitle](https://engineeringfordatascience.com/posts/matplotlib_subtitles/) 
@@ -24,7 +28,10 @@
 - PythonMaps Scipy 2022 by Adam Symington [code](https://github.com/symmy596/PythonMaps-Scipy-2022) [video](https://www.youtube.com/watch?v=cjfqCHHp-AE&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=5)
 - Ipywidgets and MPL interactions Scipy 2022 [code](https://github.com/jupyter-widgets/tutorial) [video](https://www.youtube.com/watch?v=1vuI22MkkrY&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=12) 
 
-# Official tutorials you may have missed 
+### Official tutorials you may have missed 
 - [How to create custom tables by Tim Bayer](https://matplotlib.org/matplotblog/posts/how-to-create-custom-tables/) 
 - [Battery Charts by Rithwik Rajendran](https://matplotlib.org/matplotblog/posts/visualising-usage-using-batteries/) - create custom shapes, make them data driven 
 - [Packed-bubble chart](https://matplotlib.org/devdocs/gallery/misc/packed_bubbles.html) - chart as a class; more circle packing chart than bubble chart 
+
+### Tutorials using the plt-API, but still useful 
+- [Matplot GIF on Calmcode](https://calmcode.io/matplot-gif/introduction.html) 

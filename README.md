@@ -27,6 +27,7 @@
   - [Reproducing The Economist style](https://www.datafantic.com/making-economist-style-plots-in-matplotlib-2/)
 - PythonMaps Scipy 2022 by Adam Symington [code](https://github.com/symmy596/PythonMaps-Scipy-2022) [video](https://www.youtube.com/watch?v=cjfqCHHp-AE&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=5)
 - Ipywidgets and MPL interactions Scipy 2022 [code](https://github.com/jupyter-widgets/tutorial) [video](https://www.youtube.com/watch?v=1vuI22MkkrY&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=12) 
+- [Various useful snippets](https://www.pythonviz.blog/all_posts_categorized.html#category=matplotlib)
 
 ### Official tutorials you may have missed 
 - [How to create custom tables by Tim Bayer](https://matplotlib.org/matplotblog/posts/how-to-create-custom-tables/) 

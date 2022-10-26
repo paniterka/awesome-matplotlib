@@ -9,7 +9,6 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
 - [Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier](https://github.com/rougier/scientific-visualization-book)
 - [Coding for Economists by Arthur Turrell](https://aeturrell.github.io/coding-for-economists/vis-intro.html)
 - [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
-- [Matplotlib 3.0 Cookbook by Srinivasa Rao Poladi](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook)
 
 ## Repositories with examples of complex visualizations 
 - [Lisa-Ho](https://github.com/Lisa-Ho)
@@ -35,5 +34,7 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
 - [Battery Charts by Rithwik Rajendran](https://matplotlib.org/matplotblog/posts/visualising-usage-using-batteries/) - create custom shapes, make them data driven 
 - [Packed-bubble chart](https://matplotlib.org/devdocs/gallery/misc/packed_bubbles.html) - chart as a class; more circle packing chart than bubble chart 
 
-### Tutorials using the plt-API, but still useful 
+## Resources using the plt-API, but still useful 
 - [Matplot GIF on Calmcode](https://calmcode.io/matplot-gif/introduction.html) 
+- [Matplotlib 3.0 Cookbook by Srinivasa Rao Poladi](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) 
+

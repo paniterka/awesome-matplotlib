@@ -1,5 +1,5 @@
 # List of various useful resources around Matplotlib 
-
+This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pythonviz.blog](https://www.pythonviz.blog/)). If you think a resource should be added, open an issue with your proposal! 
 
 ## Cheat sheets 
 - [Official Cheat Sheets](https://github.com/matplotlib/cheatsheets)

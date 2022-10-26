@@ -12,7 +12,7 @@
 ## Repositories with examples of complex visualizations 
 - [Lisa-Ho](https://github.com/Lisa-Ho)
 - [diego-gonher](https://github.com/diego-gonher/divulgacion/tree/main/visualizaciones)
-- 
+- [symmy596](https://github.com/symmy596) - geoviz
 
 # Community tutorials 
 - [Engineering for data science - Blog](https://engineeringfordatascience.com/tags/matplotlib/)
@@ -21,9 +21,10 @@
 - DataFantic - Blog 
   - [Stylesheets](https://www.datafantic.com/the-magic-of-matplotlib-stylesheets/) 
   - [Reproducing The Economist style](https://www.datafantic.com/making-economist-style-plots-in-matplotlib-2/)
+- [PythonMaps Scipy 2022 by Adam Symington](https://github.com/symmy596/PythonMaps-Scipy-2022) [video](https://www.youtube.com/watch?v=cjfqCHHp-AE&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=5)
+- [Ipywidgets and MPL interactions Scipy 2022](https://github.com/jupyter-widgets/tutorial) [video](https://www.youtube.com/watch?v=1vuI22MkkrY&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=12) 
 
 # Official tutorials you may have missed 
 - [How to create custom tables by Tim Bayer](https://matplotlib.org/matplotblog/posts/how-to-create-custom-tables/) 
 - [Battery Charts by Rithwik Rajendran](https://matplotlib.org/matplotblog/posts/visualising-usage-using-batteries/) - create custom shapes, make them data driven 
 - [Packed-bubble chart](https://matplotlib.org/devdocs/gallery/misc/packed_bubbles.html) - chart as a class; more circle packing chart than bubble chart 
--  

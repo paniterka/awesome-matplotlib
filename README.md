@@ -26,6 +26,7 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
   - [Stylesheets](https://www.datafantic.com/the-magic-of-matplotlib-stylesheets/) 
   - [Reproducing The Economist style](https://www.datafantic.com/making-economist-style-plots-in-matplotlib-2/)
 - [Various useful snippets](https://www.pythonviz.blog/all_posts_categorized.html#category=matplotlib)
+- [Change font family](https://datascienceparichay.com/article/change-font-type-in-matplotlib-plots/)
 
 ### Courses and workshops 
 - PythonMaps Scipy 2022 by Adam Symington [code](https://github.com/symmy596/PythonMaps-Scipy-2022) [video](https://www.youtube.com/watch?v=cjfqCHHp-AE&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=5)

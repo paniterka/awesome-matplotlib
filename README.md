@@ -25,6 +25,10 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
 - DataFantic - Blog 
   - [Stylesheets](https://www.datafantic.com/the-magic-of-matplotlib-stylesheets/) 
   - [Reproducing The Economist style](https://www.datafantic.com/making-economist-style-plots-in-matplotlib-2/)
+- [Blog of Gianluca Rigoletti](https://grigolet.github.io/index.html#category=matplotlib): 
+  - ridgeplots 
+  - reproducing CERN ROOT stylesheet
+  - multiple Y axes 
 - [Various useful snippets](https://www.pythonviz.blog/all_posts_categorized.html#category=matplotlib)
 - [Change font family](https://datascienceparichay.com/article/change-font-type-in-matplotlib-plots/)
 

@@ -31,6 +31,7 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
   - multiple Y axes 
 - [Various useful snippets](https://www.pythonviz.blog/all_posts_categorized.html#category=matplotlib)
 - [Change font family](https://datascienceparichay.com/article/change-font-type-in-matplotlib-plots/)
+- How to create custom hatches: [example 1](https://stackoverflow.com/questions/17285154/how-to-fill-a-polygon-with-a-custom-hatch-in-matplotlib) [example 2](https://stackoverflow.com/questions/4745937/how-to-decrease-hatch-density-in-matplotlib?rq=1) [example 3](https://malithjayaweera.com/2020/06/matplotlib-hatch-patterns/). In future releases of Matplotlib there will be a different API to create custom hatches [see discussion](https://github.com/matplotlib/matplotlib/issues/20690)
 
 ### Courses and workshops 
 - PythonMaps Scipy 2022 by Adam Symington [code](https://github.com/symmy596/PythonMaps-Scipy-2022) [video](https://www.youtube.com/watch?v=cjfqCHHp-AE&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=5)

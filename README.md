@@ -4,6 +4,7 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
 ## Cheat sheets 
 - [Official Cheat Sheets](https://github.com/matplotlib/cheatsheets)
 - [E2ML chapter by Brandon Rohrer](https://e2eml.school/blog.html#131) 
+- [How to cite Matplotlib (incl. Bibtex entry)](https://matplotlib.org/stable/users/project/citing.html)
 
 ## Books 
 - [Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier](https://github.com/rougier/scientific-visualization-book)

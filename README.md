@@ -16,6 +16,7 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
 - [diego-gonher](https://github.com/diego-gonher/divulgacion/tree/main/visualizaciones)
 - [symmy596](https://github.com/symmy596) - geoviz 
 - [Kaggle: A story told through a heatmap](https://www.kaggle.com/code/tkubacka/a-story-told-through-a-heatmap)
+- [sonofacorner](https://github.com/sonofacorner/soc-viz-of-the-week) - sport viz 
 
 ## Tutorials
 

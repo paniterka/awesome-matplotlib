@@ -57,3 +57,7 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
 - [Matplot GIF on Calmcode](https://calmcode.io/matplot-gif/introduction.html) 
 - [Matplotlib 3.0 Cookbook by Srinivasa Rao Poladi](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) 
 
+# MPL-compatible modules and extensions 
+
+## Colors 
+- [glasbey](https://github.com/lmcinnes/glasbey) - Algorithmically create or extend categorical colour palettes

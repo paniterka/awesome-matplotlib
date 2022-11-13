@@ -42,6 +42,8 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
   - [Rolling average xG charts from scratch](https://www.sonofacorner.com/xg-rolling-plots/) 
   - [Stacked bars with annotations and icons from scratch](https://www.sonofacorner.com/effective-bar-charts-a-matplotlib-tutorial/) 
   - [Footbal shot maps](https://www.sonofacorner.com/shot-maps-a-matplotlib-tutorial/)
+- [Practical Business Python](https://pbpython.com/): 
+  - [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)
 
 ### Courses and workshops 
 - PythonMaps Scipy 2022 by Adam Symington [code](https://github.com/symmy596/PythonMaps-Scipy-2022) [video](https://www.youtube.com/watch?v=cjfqCHHp-AE&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=5)

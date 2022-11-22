@@ -17,6 +17,7 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
 - [symmy596](https://github.com/symmy596) - geoviz 
 - [Kaggle: A story told through a heatmap](https://www.kaggle.com/code/tkubacka/a-story-told-through-a-heatmap)
 - [sonofacorner](https://github.com/sonofacorner/soc-viz-of-the-week) - sport viz 
+- [asongtoruin](https://github.com/asongtoruin)
 
 ## Tutorials
 
@@ -44,6 +45,8 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
   - [Footbal shot maps](https://www.sonofacorner.com/shot-maps-a-matplotlib-tutorial/)
 - [Practical Business Python](https://pbpython.com/): 
   - [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)
+- [Adam Ruszkowski's blog](https://ruszkow.ski/graphs/)
+  - [Basic matplotlib Bar Plot Styling](https://ruszkow.ski/graphs/2022-11-01-basic-matplotlib-bar-plot-styling/)
 
 ### Courses and workshops 
 - PythonMaps Scipy 2022 by Adam Symington [code](https://github.com/symmy596/PythonMaps-Scipy-2022) [video](https://www.youtube.com/watch?v=cjfqCHHp-AE&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=5)

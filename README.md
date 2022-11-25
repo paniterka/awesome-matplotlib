@@ -58,6 +58,7 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
 - [How to create custom tables by Tim Bayer](https://matplotlib.org/matplotblog/posts/how-to-create-custom-tables/) 
 - [Battery Charts by Rithwik Rajendran](https://matplotlib.org/matplotblog/posts/visualising-usage-using-batteries/) - create custom shapes, make them data driven 
 - [Packed-bubble chart](https://matplotlib.org/devdocs/gallery/misc/packed_bubbles.html) - chart as a class; more circle packing chart than bubble chart 
+- [Tips on structuring your MPL code by the MPL Project Lead Thomas A Caswell](https://github.com/NFAcademy/2021_course_dev-tacaswell/blob/main/notebooks/01_try_a_function_on.ipynb)
 
 ## Resources using the plt-API, but still useful 
 - [Matplot GIF on Calmcode](https://calmcode.io/matplot-gif/introduction.html) 

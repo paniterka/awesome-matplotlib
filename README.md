@@ -11,6 +11,12 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
 - [Coding for Economists by Arthur Turrell](https://aeturrell.github.io/coding-for-economists/vis-intro.html)
 - [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
 
+## Courses and workshops 
+- NumFocus Academy - Matplotlib course (beginner) by Nicolas P. Rougier [code](https://github.com/NFAcademy/2021_course_dev-rougier/tree/main/notebooks)
+- Beyond the Basics: Data Visualization in Python by Stefanie Molin [code](https://github.com/stefmolin/python-data-viz-workshop)
+- PythonMaps Scipy 2022 by Adam Symington [code](https://github.com/symmy596/PythonMaps-Scipy-2022) [video](https://www.youtube.com/watch?v=cjfqCHHp-AE&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=5)
+- Ipywidgets and MPL interactions Scipy 2022 [code](https://github.com/jupyter-widgets/tutorial) [video](https://www.youtube.com/watch?v=1vuI22MkkrY&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=12) 
+
 ## Repositories with examples of complex visualizations 
 - [Lisa-Ho](https://github.com/Lisa-Ho)
 - [diego-gonher](https://github.com/diego-gonher/divulgacion/tree/main/visualizaciones)
@@ -47,12 +53,6 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
   - [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)
 - [Adam Ruszkowski's blog](https://ruszkow.ski/graphs/)
   - [Basic matplotlib Bar Plot Styling](https://ruszkow.ski/graphs/2022-11-01-basic-matplotlib-bar-plot-styling/)
-
-### Courses and workshops 
-- NumFocus Academy - Matplotlib course (beginner) by Nicolas P. Rougier [code](https://github.com/NFAcademy/2021_course_dev-rougier/tree/main/notebooks)
-- PythonMaps Scipy 2022 by Adam Symington [code](https://github.com/symmy596/PythonMaps-Scipy-2022) [video](https://www.youtube.com/watch?v=cjfqCHHp-AE&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=5)
-- Ipywidgets and MPL interactions Scipy 2022 [code](https://github.com/jupyter-widgets/tutorial) [video](https://www.youtube.com/watch?v=1vuI22MkkrY&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=12) 
-- Beyond the Basics: Data Visualization in Python by Stefanie Molin [code](https://github.com/stefmolin/python-data-viz-workshop)
 
 ### Official tutorials you may have missed 
 - [How to create custom tables by Tim Bayer](https://matplotlib.org/matplotblog/posts/how-to-create-custom-tables/) 

@@ -53,6 +53,7 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
   - [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)
 - [Adam Ruszkowski's blog](https://ruszkow.ski/graphs/)
   - [Basic matplotlib Bar Plot Styling](https://ruszkow.ski/graphs/2022-11-01-basic-matplotlib-bar-plot-styling/)
+- [https://dev.to/skotaro/artist-in-matplotlib---something-i-wanted-to-know-before-spending-tremendous-hours-on-googling-how-tos--31oo]("Artist" in Matplotlib - something I wanted to know before spending tremendous hours on googling how-tos)
 
 ### Official tutorials you may have missed 
 - [How to create custom tables by Tim Bayer](https://matplotlib.org/matplotblog/posts/how-to-create-custom-tables/) 
@@ -63,6 +64,10 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
 ## Resources using the plt-API, but still useful 
 - [Matplot GIF on Calmcode](https://calmcode.io/matplot-gif/introduction.html) 
 - [Matplotlib 3.0 Cookbook by Srinivasa Rao Poladi](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) 
+
+## MPL-lore, history and other meta-level material 
+- [John Hunter and Michael Droettboom explain the design choices they made](https://www.aosabook.org/en/matplotlib.html)
+- [Matplotlib Lead Developer Explains Why He Can’t Fix the Docs—But You Can](https://numfocus.org/blog/matplotlib-lead-developer-explains-why-he-cant-fix-the-docs-but-you-can)
 
 # MPL-compatible modules and extensions 
 

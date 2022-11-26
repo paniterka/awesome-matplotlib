@@ -53,7 +53,7 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
   - [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)
 - [Adam Ruszkowski's blog](https://ruszkow.ski/graphs/)
   - [Basic matplotlib Bar Plot Styling](https://ruszkow.ski/graphs/2022-11-01-basic-matplotlib-bar-plot-styling/)
-- [https://dev.to/skotaro/artist-in-matplotlib---something-i-wanted-to-know-before-spending-tremendous-hours-on-googling-how-tos--31oo]("Artist" in Matplotlib - something I wanted to know before spending tremendous hours on googling how-tos)
+- ["Artist" in Matplotlib - something I wanted to know before spending tremendous hours on googling how-tos](https://dev.to/skotaro/artist-in-matplotlib---something-i-wanted-to-know-before-spending-tremendous-hours-on-googling-how-tos--31oo)
 
 ### Official tutorials you may have missed 
 - [How to create custom tables by Tim Bayer](https://matplotlib.org/matplotblog/posts/how-to-create-custom-tables/) 

@@ -68,6 +68,7 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
 ## MPL-lore, history and other meta-level material 
 - [John Hunter and Michael Droettboom explain the design choices they made](https://www.aosabook.org/en/matplotlib.html)
 - [Matplotlib Lead Developer Explains Why He Can’t Fix the Docs—But You Can](https://numfocus.org/blog/matplotlib-lead-developer-explains-why-he-cant-fix-the-docs-but-you-can)
+- [John Hunter's talk "matplotlib: Lessons from middle age"](https://www.youtube.com/watch?v=e3lTby5RI54)
 
 # MPL-compatible modules and extensions 
 

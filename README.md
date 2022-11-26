@@ -64,6 +64,7 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
 ## Resources using the plt-API, but still useful 
 - [Matplot GIF on Calmcode](https://calmcode.io/matplot-gif/introduction.html) 
 - [Matplotlib 3.0 Cookbook by Srinivasa Rao Poladi](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) 
+- [Python Graph Gallery](https://www.python-graph-gallery.com/) - a treasure of visualizations, but unfortunately the APIs used are not consistent
 
 ## MPL-lore, history and other meta-level material 
 - [John Hunter and Michael Droettboom explain the design choices they made](https://www.aosabook.org/en/matplotlib.html)

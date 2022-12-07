@@ -72,6 +72,7 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
 - [Matplotlib Lead Developer Explains Why He Can’t Fix the Docs—But You Can](https://numfocus.org/blog/matplotlib-lead-developer-explains-why-he-cant-fix-the-docs-but-you-can)
 - [John Hunter's talk "matplotlib: Lessons from middle age"](https://www.youtube.com/watch?v=e3lTby5RI54)
 - [Thoughts on how the MPL API could be more pythonic](https://ryxcommar.com/2020/04/11/why-you-hate-matplotlib/)
+- my own NormConf Lightning Talk [How to stop crying when using Matplotlib](https://www.youtube.com/watch?v=vjQIaepijbE)
 
 # MPL-compatible modules and extensions 
 

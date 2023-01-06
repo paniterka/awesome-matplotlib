@@ -80,3 +80,6 @@ This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pytho
 
 ## Colors 
 - [glasbey](https://github.com/lmcinnes/glasbey) - Algorithmically create or extend categorical colour palettes
+
+## Fun 
+- [ridge_map](https://github.com/ColCarroll/ridge_map) - A library for making ridge plots of... ridges. Choose a location, get an elevation map, and tinker with it to make something beautiful. 

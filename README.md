@@ -1,6 +1,23 @@
 # List of various useful resources around Matplotlib 
 This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pythonviz.blog](https://www.pythonviz.blog/)). If you think a resource should be added, open an issue with your proposal! 
 
+TOC: 
+- [List of various useful resources around Matplotlib](#list-of-various-useful-resources-around-matplotlib)
+  * [Cheat sheets](#cheat-sheets)
+  * [Books](#books)
+  * [Courses and workshops](#courses-and-workshops)
+  * [Repositories with examples of complex visualizations](#repositories-with-examples-of-complex-visualizations)
+  * [Tutorials](#tutorials)
+    + [Community tutorials](#community-tutorials)
+    + [Official tutorials you may have missed](#official-tutorials-you-may-have-missed)
+  * [Resources using the plt-API, but still useful](#resources-using-the-plt-api-but-still-useful)
+  * [MPL-lore, history and other meta-level material](#mpl-lore-history-and-other-meta-level-material)
+- [MPL-compatible modules and extensions](#mpl-compatible-modules-and-extensions)
+  * [Colors](#colors)
+  * [Fun](#fun)
+
+___ 
+
 ## Cheat sheets 
 - [Official Cheat Sheets](https://github.com/matplotlib/cheatsheets)
 - [E2ML chapter by Brandon Rohrer](https://e2eml.school/blog.html#131) 

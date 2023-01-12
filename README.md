@@ -42,6 +42,7 @@ ___
 - [Kaggle: A story told through a heatmap](https://www.kaggle.com/code/tkubacka/a-story-told-through-a-heatmap)
 - [sonofacorner](https://github.com/sonofacorner/soc-viz-of-the-week) - sport viz 
 - [asongtoruin](https://github.com/asongtoruin)
+- [rnckp](https://github.com/rnckp) - [SNSF-Data-Starter](https://github.com/rnckp/opendata_snsf-startercode), [Thematic Mapping Switzerland](https://github.com/rnckp/opendata_thematic-mapping)
 
 ## Tutorials
 

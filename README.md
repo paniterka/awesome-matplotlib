@@ -85,7 +85,8 @@ ___
 ## Resources using the plt-API, but still useful 
 - [Matplot GIF on Calmcode](https://calmcode.io/matplot-gif/introduction.html) 
 - [Matplotlib 3.0 Cookbook by Srinivasa Rao Poladi](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) 
-- [Python Graph Gallery](https://www.python-graph-gallery.com/) - a treasure of visualizations, but unfortunately the APIs used are not consistent
+- [Python Graph Gallery](https://www.python-graph-gallery.com/) - a treasure of visualizations, but unfortunately the APIs used are not consistent 
+- [Learning Scientific Programming with Python](https://scipython.com/book2/chapter-7-matplotlib/) - contains many interesting examples of mathematical visualizations with accompanying numpy/scipy algorithms, however the MPL API is sometimes inconsistent
 
 ## MPL-lore, history and other meta-level material 
 - [John Hunter and Michael Droettboom explain the design choices they made](https://www.aosabook.org/en/matplotlib.html)

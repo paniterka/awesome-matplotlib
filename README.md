@@ -74,6 +74,7 @@ ___
   - [Basic matplotlib Bar Plot Styling](https://ruszkow.ski/graphs/2022-11-01-basic-matplotlib-bar-plot-styling/)
 - ["Artist" in Matplotlib - something I wanted to know before spending tremendous hours on googling how-tos](https://dev.to/skotaro/artist-in-matplotlib---something-i-wanted-to-know-before-spending-tremendous-hours-on-googling-how-tos--31oo)
 - [plt.xxx(), or ax.xxx(), That Is The Question In Matplotlib](https://junye0798.com/post/plt-xxx-or-ax-xxx-that-is-the-question-in-matplotlib/)
+- [Christian Hill's blog](https://scipython.com/blog/) - scientific visualizations and simulations with code examples 
 
 ### Official tutorials you may have missed 
 - [How to create custom tables by Tim Bayer](https://matplotlib.org/matplotblog/posts/how-to-create-custom-tables/) 

@@ -78,7 +78,7 @@ ___
 - [Islamic Geometric Patterns](https://vamshij.com/blog/2020-01-28-islamic-geometric-patterns/)
 - [Don't Use This Code](https://www.dontusethiscode.com/blog/tag/matplotlib.html) 
   - [Recreate Tufte's weather visualization](https://www.dontusethiscode.com/blog/2023-03-08_tufte-matplotlib.html)
-- [Gradient-filled patches and fill-betweens](https://stackoverflow.com/questions/29321835/is-it-possible-to-get-color-gradients-under-curve-in-matplotlib)
+- [Gradient-filled patches and fill-betweens](https://stackoverflow.com/questions/29321835/is-it-possible-to-get-color-gradients-under-curve-in-matplotlib) and [method2](http://pradhanphy.blogspot.com/2014/06/filling-between-curves-with-color.html)
 
 ### Official tutorials you may have missed 
 - [How to create custom tables by Tim Bayer](https://matplotlib.org/matplotblog/posts/how-to-create-custom-tables/) 

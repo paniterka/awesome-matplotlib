@@ -33,7 +33,8 @@ ___
 - Beyond the Basics: Data Visualization in Python by Stefanie Molin [code](https://github.com/stefmolin/python-data-viz-workshop)
 - PythonMaps Scipy 2022 by Adam Symington [code](https://github.com/symmy596/PythonMaps-Scipy-2022) [video](https://www.youtube.com/watch?v=cjfqCHHp-AE&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=5)
 - Ipywidgets and MPL interactions Scipy 2022 [code](https://github.com/jupyter-widgets/tutorial) [video](https://www.youtube.com/watch?v=1vuI22MkkrY&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=12) 
-- Neural Network Visualization by Brandon Rohrer [code](https://github.com/brohrer/autoencoder_visualization) [video](https://end-to-end-machine-learning.teachable.com/p/neural-network-visualization) 
+- Neural Network Visualization by Brandon Rohrer [code](https://github.com/brohrer/autoencoder_visualization) [video](https://end-to-end-machine-learning.teachable.com/p/neural-network-visualization)
+- Effectively using Matplotlib by Tim Hoffmann EuroSciPy 2019/2022 [code](https://github.com/timhoffm/using-matplotlib)
 
 ## Repositories with examples of complex visualizations 
 - [Lisa-Ho](https://github.com/Lisa-Ho)

@@ -100,6 +100,7 @@ ___
 - [John Hunter's talk "matplotlib: Lessons from middle age"](https://www.youtube.com/watch?v=e3lTby5RI54)
 - [Thoughts on how the MPL API could be more pythonic](https://ryxcommar.com/2020/04/11/why-you-hate-matplotlib/)
 - my own NormConf Lightning Talk [How to stop crying when using Matplotlib](https://www.youtube.com/watch?v=vjQIaepijbE)
+- [John D. Hunter's IEEE paper introducing Matplotlib](https://doi.org/10.1109/MCSE.2007.55)
 
 # MPL-compatible modules and extensions 
 

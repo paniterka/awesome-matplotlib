@@ -109,4 +109,7 @@ ___
 - [glasbey](https://github.com/lmcinnes/glasbey) - Algorithmically create or extend categorical colour palettes
 
 ## Fun 
-- [ridge_map](https://github.com/ColCarroll/ridge_map) - A library for making ridge plots of... ridges. Choose a location, get an elevation map, and tinker with it to make something beautiful. 
+- [ridge_map](https://github.com/ColCarroll/ridge_map) - A library for making ridge plots of... ridges. Choose a location, get an elevation map, and tinker with it to make something beautiful.
+
+## Styles 
+- [opinionated](https://github.com/MNoichl/opinionated) - A stylesheet for newspaper-like visualization style

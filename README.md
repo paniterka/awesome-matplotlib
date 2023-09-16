@@ -13,8 +13,6 @@ TOC:
   * [Resources using the plt-API, but still useful](#resources-using-the-plt-api-but-still-useful)
   * [MPL-lore, history and other meta-level material](#mpl-lore-history-and-other-meta-level-material)
 - [MPL-compatible modules and extensions](#mpl-compatible-modules-and-extensions)
-  * [Colors](#colors)
-  * [Fun](#fun)
 
 ___ 
 
@@ -116,5 +114,5 @@ ___
 
 ## Text and annotations 
 - [https://github.com/tomicapretto/flexitext] - create colorful text strings easily using CSS-like specification
-- 
+
 

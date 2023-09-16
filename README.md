@@ -113,6 +113,6 @@ ___
 - [opinionated](https://github.com/MNoichl/opinionated) - A stylesheet for newspaper-like visualization style
 
 ## Text and annotations 
-- [https://github.com/tomicapretto/flexitext] - create colorful text strings easily using CSS-like specification
+- [flexitext](https://github.com/tomicapretto/flexitext) - create colorful text strings easily using CSS-like specification
 
 

@@ -92,7 +92,8 @@ ___
 - [Matplotlib 3.0 Cookbook by Srinivasa Rao Poladi](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) 
 - [Python Graph Gallery](https://www.python-graph-gallery.com/) - a treasure of visualizations, but unfortunately the APIs used are not consistent 
 - [Learning Scientific Programming with Python](https://scipython.com/book2/chapter-7-matplotlib/) - contains many interesting examples of mathematical visualizations with accompanying numpy/scipy algorithms, however the MPL API is sometimes inconsistent
-- [Minesweeper in MPL](https://jakevdp.github.io/blog/2012/12/06/minesweeper-in-matplotlib/) 
+- [Minesweeper in MPL](https://jakevdp.github.io/blog/2012/12/06/minesweeper-in-matplotlib/)
+- [Advanced MPL with interactivity](https://github.com/jakevdp/matplotlib_pydata2013/tree/master) - 2013 tutorials by Jake Vanderplas 
 
 ## MPL-lore, history and other meta-level material 
 - [John Hunter and Michael Droettboom explain the design choices they made](https://www.aosabook.org/en/matplotlib.html)

@@ -113,6 +113,7 @@ ___
 
 ## Styles 
 - [opinionated](https://github.com/MNoichl/opinionated) - A stylesheet for newspaper-like visualization style
+- [VSCode Intellisense for .mplstyle and matplotlibrc files](https://github.com/yy0931/vscode-mplstyle)
 
 ## Text and annotations 
 - [flexitext](https://github.com/tomicapretto/flexitext) - create colorful text strings easily using CSS-like specification

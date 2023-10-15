@@ -102,6 +102,7 @@ ___
 - [Thoughts on how the MPL API could be more pythonic](https://ryxcommar.com/2020/04/11/why-you-hate-matplotlib/)
 - my own NormConf Lightning Talk [How to stop crying when using Matplotlib](https://www.youtube.com/watch?v=vjQIaepijbE)
 - [John D. Hunter's IEEE paper introducing Matplotlib](https://doi.org/10.1109/MCSE.2007.55)
+- my talk on the Swiss Python Summit 2023, "Did you know Matplotlib could do that?": [video](https://www.youtube.com/watch?v=C6slSZQxYf0) and [slides](https://www.python-summit.ch/recordings/sps23_teresa_kubacka_did_you_know_matplotlib_could_do_that/sps23_teresa_kubacka_did_you_know_matplotlib_could_do_that.pdf)
 
 # MPL-compatible modules and extensions 
 

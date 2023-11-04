@@ -109,6 +109,7 @@ ___
 
 ## Colors 
 - [glasbey](https://github.com/lmcinnes/glasbey) - Algorithmically create or extend categorical colour palettes
+- [tastymap](https://github.com/ahuang11/tastymap) - Easily create, modify and register cmaps, including an interactive widget 
 
 ## Fun 
 - [ridge_map](https://github.com/ColCarroll/ridge_map) - A library for making ridge plots of... ridges. Choose a location, get an elevation map, and tinker with it to make something beautiful.

@@ -74,7 +74,8 @@ ___
   - [Basic matplotlib Bar Plot Styling](https://ruszkow.ski/graphs/2022-11-01-basic-matplotlib-bar-plot-styling/)
 - ["Artist" in Matplotlib - something I wanted to know before spending tremendous hours on googling how-tos](https://dev.to/skotaro/artist-in-matplotlib---something-i-wanted-to-know-before-spending-tremendous-hours-on-googling-how-tos--31oo)
 - [plt.xxx(), or ax.xxx(), That Is The Question In Matplotlib](https://junye0798.com/post/plt-xxx-or-ax-xxx-that-is-the-question-in-matplotlib/)
-- [Christian Hill's blog](https://scipython.com/blog/) - scientific visualizations and simulations with code examples 
+- [Christian Hill's blog](https://scipython.com/blog/) - scientific visualizations and simulations with code examples
+  - Christian Hill wrote a book ["Learning Python for Scientific Applications"](https://scipython.com/about/the-book/) and the [MPL examples from this book are available online](https://scipython.com/book2/chapter-7-matplotlib/)
 - [Islamic Geometric Patterns](https://vamshij.com/blog/2020-01-28-islamic-geometric-patterns/)
 - [Don't Use This Code](https://www.dontusethiscode.com/blog/tag/matplotlib.html) 
   - [Recreate Tufte's weather visualization](https://www.dontusethiscode.com/blog/2023-03-08_tufte-matplotlib.html)

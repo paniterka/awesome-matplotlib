@@ -52,8 +52,8 @@ ___
   - [Plotting subplots in a loop](https://engineeringfordatascience.com/posts/matplotlib_subplots/)
   - [Using plt.suptitle](https://engineeringfordatascience.com/posts/matplotlib_subtitles/) 
 - DataFantic - Blog 
-  - [Stylesheets](https://www.datafantic.com/the-magic-of-matplotlib-stylesheets/) 
-  - [Reproducing The Economist style](https://www.datafantic.com/making-economist-style-plots-in-matplotlib-2/)
+  - [Stylesheets](https://web.archive.org/web/20240112064712/https://www.datafantic.com/the-magic-of-matplotlib-stylesheets/) 
+  - [Reproducing The Economist style](https://web.archive.org/web/20240119051045/https://www.datafantic.com/making-economist-style-plots-in-matplotlib-2/)
 - [Blog of Gianluca Rigoletti](https://grigolet.github.io/index.html#category=matplotlib): 
   - ridgeplots 
   - reproducing CERN ROOT stylesheet

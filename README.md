@@ -34,6 +34,7 @@ ___
 - Ipywidgets and MPL interactions Scipy 2022 [code](https://github.com/jupyter-widgets/tutorial) [video](https://www.youtube.com/watch?v=1vuI22MkkrY&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV&index=12) 
 - Neural Network Visualization by Brandon Rohrer [code](https://github.com/brohrer/autoencoder_visualization) [video](https://end-to-end-machine-learning.teachable.com/p/neural-network-visualization)
 - Effectively using Matplotlib by Tim Hoffmann EuroSciPy 2019/2022 [code](https://github.com/timhoffm/using-matplotlib)
+- Code, Debug, Reuse this Chart by Artem Kislovsky, AMLD 2024 [code](https://github.com/Kislovskiy/ChartCraftHub/)
 
 ## Repositories with examples of complex visualizations 
 - [Lisa-Ho](https://github.com/Lisa-Ho)
